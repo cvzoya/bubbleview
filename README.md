@@ -1,7 +1,7 @@
 # BubbleView: an alternative methodology for eye tracking using discrete mouse clicks
 This repository contains the BubbleView click data associated with our [BubbleView TOCHI paper](http://bubbleview.namwkim.org/).
 
-If you use any of this data, consider citing:
+If you use any of this data, please consider citing:
 ```
 @article{kim2017bubbleview,
   title={BubbleView: an interface for crowdsourcing image importance maps and tracking visual attention},
@@ -14,3 +14,5 @@ If you use any of this data, consider citing:
   publisher={ACM}
 }
 ```
+
+We include `.m` files to demonstrate how to plot the ground truth fixations and collected BubbleView clicks side-by-side for comparison. The names of the files correspond to the dataset and image set (the image sets are in the `targets_[datasetname]` directories).
