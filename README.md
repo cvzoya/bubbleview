@@ -32,7 +32,7 @@ Experiment | Demo file | Data files | Image files
 4   | [gdi.m](gdi.m) | [gdi30x50.mat](gdi30x50.mat) | [targets_gdi](targets_gdi)
 5.1 | [salicon.m](salicon.m) | `salicon*x*.mat` | [targets_salicon](targets_salicon)
 5.2 | [salicon.m](salicon.m) | `saliconMM*.mat` | [targets_salicon](targets_salicon)
-addendum | massvis30_addendum.m | [massvis_fv_40x32.mat](massvis_fv_40x32.mat) | [targets_massvis30](targets_massvis30)
+addendum | [massvis30_addendum.m](massvis30_addendum.m) | [massvis_fv_40x32.mat](massvis_fv_40x32.mat) | [targets_massvis30](targets_massvis30)
 
 Note that `addendum` corresponds to an extra experiment that was run post-publication, the results of which are written up in [bubbleview-addendum.pdf](https://github.com/cvzoya/bubbleview/blob/master/bubbleview-addendum.pdf).
 
@@ -40,13 +40,13 @@ In the following table we indicate the corresponding ground truth files that Bub
 
 Experiment | Dataset | Ground truth data file | Type of data
 --- | --- | --- | --- 
-1 | [MASSVIS](http://massvis.mit.edu/): information visualizations | massvis_eyetrack.mat | eye fixations
-2 | [OSIE](http://www-users.cs.umn.edu/~qzhao/predicting.html): natural images | osie-eye-official.mat | eye fixations
-2 | [OSIE](http://www-users.cs.umn.edu/~qzhao/predicting.html): natural images | osie-amt-official.mat | SALICON mouse movements collected on MTurk
-2 | [OSIE](http://www-users.cs.umn.edu/~qzhao/predicting.html): natural images | osie-lab-official.mat | SALICON mouse movements collected in-lab
-3 | [FiWI](http://www-users.cs.umn.edu/~qzhao/webpage_saliency.html): static webpages | fiwi_eyetrack.mat | eye fixations
-4 | [GDI](http://www.dgp.toronto.edu/~donovan/layout/index.html): graphic designs | gdi-official | importance annotations (heatmaps)
-5 | [SALICON](http://salicon.net/): natural images | salicon_gt.mat | SALICON mouse movements collected on MTurk
+1 | [MASSVIS](http://massvis.mit.edu/): information visualizations | [massvis_eyetrack.mat](massvis_eyetrack.mat) | eye fixations
+2 | [OSIE](http://www-users.cs.umn.edu/~qzhao/predicting.html): natural images | [osie-eye-official.mat](osie-eye-official.mat) | eye fixations
+2 | [OSIE](http://www-users.cs.umn.edu/~qzhao/predicting.html): natural images | [osie-amt-official.mat](osie-amt-official.mat) | SALICON mouse movements collected on MTurk
+2 | [OSIE](http://www-users.cs.umn.edu/~qzhao/predicting.html): natural images | [osie-lab-official.mat](osie-lab-official.mat) | SALICON mouse movements collected in-lab
+3 | [FiWI](http://www-users.cs.umn.edu/~qzhao/webpage_saliency.html): static webpages | [fiwi_eyetrack.mat](fiwi_eyetrack.mat) | eye fixations
+4 | [GDI](http://www.dgp.toronto.edu/~donovan/layout/index.html): graphic designs | [gdi-official](gdi-official) | importance annotations (heatmaps)
+5 | [SALICON](http://salicon.net/): natural images | [salicon_gt.mat](salicon_gt.mat) | SALICON mouse movements collected on MTurk
 
 For completeness, in the following table we include the BubbleView parameters with which each data file was collected.
 
