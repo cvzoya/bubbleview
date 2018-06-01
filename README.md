@@ -19,6 +19,7 @@ We include `.m` files to demonstrate how to plot the ground truth fixations and 
 The names of the files match the dataset and image set (the image sets are in the `targets_[datasetname]` directories). For instance, run `fiwi.m` to plot the side-by-side comparisons of ground truth fixation data (stored in `fiwi_eyetrack.mat`) and BubbleView clicks collected with different parameter settings (`fiwi[param1]x[param2].mat`). The fixations and clicks will be plotted on top of the images stored in `targets_fiwi`.
 
 In the following table we indicate which experiment from the paper corresponds to which file:
+
 Experiment | Demo file | Data files | Image files
 — | — | — | —
 1.1 | massvis.m | massvis_exp1*.mat | targets_massvis
