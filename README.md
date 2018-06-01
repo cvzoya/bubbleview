@@ -50,3 +50,12 @@ Experiment | Dataset | Ground truth data file | Type of data
 
 For completeness, in the following table we include the BubbleView parameters with which each data file was collected.
 
+Data file | Experiment | Task type | Time | Blur sigma | Bubble radius | Mouse modality
+--- | --- | --- | --- | --- | --- | ---
+[massvis_exp1_40x16.mat](massvis_exp1_40x16.mat) | 1.1 | description | unlimited | 40 pix | 16 pix | mouse clicks
+[massvis_exp1_40x24.mat](massvis_exp1_40x24.mat) | 1.1 | description | unlimited | 40 pix | 24 pix | mouse clicks
+[massvis_exp1_40x32.mat](massvis_exp1_40x32.mat) | 1.1 | description | unlimited | 40 pix | 32 pix | mouse clicks
+[massvis_exp2_40x24.mat](massvis_exp2_40x24.mat) | 1.2 | description | unlimited | 40 pix | 24 pix | mouse clicks
+[massvis_exp2_40x32.mat](massvis_exp2_40x32.mat) | 1.2 | description | unlimited | 40 pix | 32 pix | mouse clicks
+[massvis_exp2_40x40.mat](massvis_exp2_40x40.mat) | 1.2 | description | unlimited | 40 pix | 40 pix | mouse clicks
+[massvis_exp3_40x32.mat](massvis_exp3_40x32.mat) | 1.3 | description | unlimited | 40 pix | 32 pix | mouse clicks
