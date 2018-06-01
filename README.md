@@ -21,7 +21,7 @@ The names of the files match the dataset and image set (the image sets are in th
 In the following table we indicate which experiment from the paper corresponds to which file:
 
 Experiment | Demo file | Data files | Image files
-— | — | — | —
+--- | --- | --- | ---
 1.1 | massvis.m | massvis_exp1*.mat | targets_massvis
 1.2 | massvis.m | massvis_exp2*.mat | targets_massvis
 1.3 | massvis.m | massvis_exp3_40x32.mat | targets_massvis
