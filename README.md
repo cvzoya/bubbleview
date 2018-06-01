@@ -36,5 +36,15 @@ addendum | massvis30_addendum.m | massvis_fv_40x32.mat | targets_massvis30
 
 Note that `addendum` corresponds to an extra experiment that was run post-publication, the results of which are written up in [bubbleview-addendum.pdf](https://github.com/cvzoya/bubbleview/blob/master/bubbleview-addendum.pdf).
 
+In the following table we indicate the corresponding ground truth files that BubbleView clicks were compared against (taken from the original datasets):
+Experiment | Dataset | Ground truth data file | Type of data
+--- | --- | --- | --- 
+1 | MASSVIS: information visualizations | massvis_eyetrack.mat | eye fixations
+2 | OSIE: natural images | osie-eye-official.mat | eye fixations
+2 | OSIE: natural images | osie-amt-official.mat | SALICON mouse movements collected on MTurk
+2 | OSIE: natural images | osie-lab-official.mat | SALICON mouse movements collected in-lab
+3 | FiWI: static webpages | fiwi_eyetrack.mat | eye fixations
+4 | GDI: graphic designs | gdi-official | importance annotations (heatmaps)
+5 | SALICON: natural images | salicon_gt.mat | SALICON mouse movements collected on MTurk
 
 For completeness, in the following table we include the BubbleView parameters with which each data file was collected.
