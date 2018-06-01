@@ -32,9 +32,9 @@ Experiment | Demo file | Data files | Image files
 4   | gdi.m | gdi30x50.mat | targets_gdi
 5.1 | salicon.m | salicon*x*.mat | targets_salicons
 5.2 | salicon.m | saliconMM*.mat | targets_salicon
-add | massvis30_addendum.m | massvis_fv_40x32.mat | targets_massvis30
+addendum | massvis30_addendum.m | massvis_fv_40x32.mat | targets_massvis30
 
-Note that `add` corresponds to the addendum to the paper, where an extra experiment was run post-publication.
+Note that `addendum` corresponds to an extra experiment that was run post-publication, the results of which are written up in [bubbleview-addendum.pdf](https://github.com/cvzoya/bubbleview/blob/master/bubbleview-addendum.pdf).
 
 
 For completeness, in the following table we include the BubbleView parameters with which each data file was collected.
