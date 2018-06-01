@@ -59,3 +59,25 @@ Data file | Experiment | Task type | Time | Blur sigma | Bubble radius | Mouse m
 [massvis_exp2_40x32.mat](massvis_exp2_40x32.mat) | 1.2 | description | unlimited | 40 pix | 32 pix | mouse clicks
 [massvis_exp2_40x40.mat](massvis_exp2_40x40.mat) | 1.2 | description | unlimited | 40 pix | 40 pix | mouse clicks
 [massvis_exp3_40x32.mat](massvis_exp3_40x32.mat) | 1.3 | description | unlimited | 40 pix | 32 pix | mouse clicks
+[massvis_fv_40x32.mat](massvis_fv_40x32.mat) | addendum | free-viewing | 10 sec | 40 pix | 32 pix | mouse clicks
+[osie30x30.mat](osie30x30.mat) | 2.1 | free-viewing | 10 sec | 30 pix | 30 pix | mouse clicks
+[osieMM30.mat](osieMM30.mat) | 2.2 | free-viewing | 5 sec | 30 pix | 30 pix | mouse movements
+[fiwi10x30.mat](fiwi10x30.mat) | 3.1 | free-viewing | 10 sec | 50 pix | 30 pix | mouse clicks
+[fiwi10x50.mat](fiwi10x50.mat) | 3.1 | free-viewing | 10 sec | 50 pix | 50 pix | mouse clicks
+[fiwi10x70.mat](fiwi10x70.mat) | 3.1 | free-viewing | 10 sec | 50 pix | 70 pix | mouse clicks
+[fiwi30x30.mat](fiwi30x30.mat) | 3.1 | free-viewing | 30 sec | 50 pix | 30 pix | mouse clicks
+[fiwi30x50.mat](fiwi30x50.mat) | 3.1 | free-viewing | 30 sec | 50 pix | 50 pix | mouse clicks
+[fiwi30x70.mat](fiwi30x70.mat) | 3.1 | free-viewing | 30 sec | 50 pix | 70 pix | mouse clicks
+[fiwiDx30.mat](fiwiDx30.mat) | 3.2 | description | unlimited | 50 pix | 30 pix | mouse clicks
+[gdi30x50.mat](gdi30x50.mat) | 4 | free-viewing | 10 sec | 30 pix | 50 pix | mouse clicks
+[salicon30x30.mat](salicon30x30.mat) | 5.1 | free-viewing | 10 sec | 30 pix | 30 pix | mouse clicks
+[salicon30x50.mat](salicon30x50.mat) | 5.1 | free-viewing | 10 sec | 30 pix | 50 pix | mouse clicks
+[salicon30x70.mat](salicon30x70.mat) | 5.1 | free-viewing | 10 sec | 30 pix | 70 pix | mouse clicks
+[salicon50x30.mat](salicon50x30.mat) | 5.1 | free-viewing | 10 sec | 50 pix | 30 pix | mouse clicks
+[salicon50x50.mat](salicon50x50.mat) | 5.1 | free-viewing | 10 sec | 50 pix | 50 pix | mouse clicks
+[salicon50x70.mat](salicon50x70.mat) | 5.1 | free-viewing | 10 sec | 50 pix | 70 pix | mouse clicks
+[salicon70x30.mat](salicon70x30.mat) | 5.1 | free-viewing | 10 sec | 70 pix | 30 pix | mouse clicks
+[salicon70x50.mat](salicon70x50.mat) | 5.1 | free-viewing | 10 sec | 70 pix | 50 pix | mouse clicks
+[salicon70x70.mat](salicon70x70.mat) | 5.1 | free-viewing | 10 sec | 70 pix | 70 pix | mouse clicks
+[saliconMM30.mat](saliconMM30.mat) | 5.2 | free-viewing | 5 sec | 30 pix | 30 pix | mouse movements
+[saliconMM50.mat](saliconMM50.mat) | 5.2 | free-viewing | 5 sec | 30 pix | 50 pix | mouse movements
