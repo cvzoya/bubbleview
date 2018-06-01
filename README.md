@@ -37,6 +37,7 @@ addendum | massvis30_addendum.m | massvis_fv_40x32.mat | targets_massvis30
 Note that `addendum` corresponds to an extra experiment that was run post-publication, the results of which are written up in [bubbleview-addendum.pdf](https://github.com/cvzoya/bubbleview/blob/master/bubbleview-addendum.pdf).
 
 In the following table we indicate the corresponding ground truth files that BubbleView clicks were compared against (taken from the original datasets):
+
 Experiment | Dataset | Ground truth data file | Type of data
 --- | --- | --- | --- 
 1 | MASSVIS: information visualizations | massvis_eyetrack.mat | eye fixations
