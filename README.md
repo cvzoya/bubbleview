@@ -22,16 +22,16 @@ In the following table we indicate which experiment from the paper corresponds t
 
 Experiment | Demo file | Data files | Image files
 --- | --- | --- | ---
-1.1 | [massvis.m](massvis.m) | massvis_exp1*.mat | [targets_massvis](targets_massvis)
-1.2 | [massvis.m](massvis.m) | massvis_exp2*.mat | [targets_massvis](targets_massvis)
-1.3 | [massvis.m](massvis.m) | massvis_exp3_40x32.mat | [targets_massvis](targets_massvis)
+1.1 | [massvis.m](massvis.m) | `massvis_exp1*.mat` | [targets_massvis](targets_massvis)
+1.2 | [massvis.m](massvis.m) | `massvis_exp2*.mat` | [targets_massvis](targets_massvis)
+1.3 | [massvis.m](massvis.m) | [massvis_exp3_40x32.mat](massvis_exp3_40x32.mat) | [targets_massvis](targets_massvis)
 2.1 | [osie.m](osie.m) | [osie30x30.mat](osie30x30.mat) | [targets_osie](targets_osie)
 2.2 | [osie.m](osie.m) | [osieMM30.mat](osieMM30.mat) | [targets_osie](targets_osie)
-3.1 | [fiwi.m](fiwi.m) | fiwi*x*.mat | [targets_fiwi](targets_fiwi)
+3.1 | [fiwi.m](fiwi.m) | `fiwi*x*.mat` | [targets_fiwi](targets_fiwi)
 3.2 | [fiwi.m](fiwi.m) | [fiwiDx30.mat](fiwiDx30.mat) | [targets_fiwi](targets_fiwi)
 4   | [gdi.m](gdi.m) | [gdi30x50.mat](gdi30x50.mat) | [targets_gdi](targets_gdi)
-5.1 | [salicon.m](salicon.m) | salicon*x*.mat | [targets_salicon](targets_salicon)
-5.2 | [salicon.m](salicon.m) | saliconMM*.mat | [targets_salicon](targets_salicon)
+5.1 | [salicon.m](salicon.m) | `salicon*x*.mat` | [targets_salicon](targets_salicon)
+5.2 | [salicon.m](salicon.m) | `saliconMM*.mat` | [targets_salicon](targets_salicon)
 addendum | massvis30_addendum.m | [massvis_fv_40x32.mat](massvis_fv_40x32.mat) | [targets_massvis30](targets_massvis30)
 
 Note that `addendum` corresponds to an extra experiment that was run post-publication, the results of which are written up in [bubbleview-addendum.pdf](https://github.com/cvzoya/bubbleview/blob/master/bubbleview-addendum.pdf).
